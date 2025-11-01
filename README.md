@@ -1,5 +1,9 @@
 # 🕒 Digital Clock (Responsive)
 
+
+![Digital Clock Preview](preview.png)
+
+
 A clean and modern **Digital Clock** built with **HTML**, **CSS**, and **JavaScript**.  
 It displays the current **time**, **day**, **date**, and **year** — all in a stylish, fully **responsive** layout.
 
